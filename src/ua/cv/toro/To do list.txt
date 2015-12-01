@@ -1,0 +1,22 @@
+=============================== TO DO ================================
+
+4. Process list <StockFile>
+   + pack file.esp to file.zip and save in "ForVectorStock" folder
+   - resize jpg to 400px long side and save in "ForVectorStock" folder
+
+
+
+
+
+=============================== DONE =================================
+
+1. Get and analyze parameter
+
+2. Get list of file an remove:
+   - already present file.zip
+   - no file.eps
+
+3. Create list of StockFile objects
+
+4. Process list <StockFile>
+   - pack file.eps and file.jpg in file.zip file
