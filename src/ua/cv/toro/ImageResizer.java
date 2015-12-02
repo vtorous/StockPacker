@@ -15,11 +15,8 @@ import java.io.IOException;
 import java.io.OutputStream;
 import java.util.Iterator;
 
-/**
- * This program demonstrates how to resize an image.
- *
- * @author www.codejava.net
- */
+
+
 public class ImageResizer {
 
     /**
