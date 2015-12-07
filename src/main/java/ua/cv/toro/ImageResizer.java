@@ -43,7 +43,7 @@ public class ImageResizer {
 
         // extracts extension of output file
         String formatName = outputImagePath.substring(outputImagePath
-                .lastIndexOf(".") + 1);
+                .lastIndexOf("") + 1);
 
         // writes to output file
         //ImageIO.write(outputImage, formatName, new File(outputImagePath));
