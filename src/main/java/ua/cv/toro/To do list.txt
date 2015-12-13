@@ -1,12 +1,5 @@
 =============================== TO DO ================================
 
-4. Process list <StockFile>
-   + pack file.esp to file.zip and save in "ForVectorStock" folder
-   - resize jpg to 400px long side and save in "ForVectorStock" folder
-
-
-
-
 
 =============================== DONE =================================
 
@@ -19,4 +12,6 @@
 3. Create list of StockFile objects
 
 4. Process list <StockFile>
-   - pack file.eps and file.jpg in file.zip file
+   + pack file.esp to file.zip and save in "ForVectorStock" folder
+   - resize jpg to 400px long side and save in "ForVectorStock" folder
+
