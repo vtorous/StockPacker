@@ -83,15 +83,6 @@ public class StockFile {
             e.printStackTrace();
         }
 
-        // resize image
-//        try {
-//            System.out.println("Processing file:   " + jpgFile.getName());
-//            ImageResizer.resize(jpgFileFullPath, jpgFileForVSFullPath, 400, 400);
-//        } catch (IOException e) {
-//            e.printStackTrace();
-//        }
-
-
     }
 
 }
