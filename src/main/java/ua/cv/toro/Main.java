@@ -1,7 +1,7 @@
 /*
  * Copyright (C) 2015 Vasil Torous
  * distributed "AS IS" BASIS, WITHOUT WARRANTIES
- * OR CONDITIONS OF ANY KIND. Use and be happy.
+ * OR CONDITIONS OF ANY KIND. USE AND BE HAPPY.
  */
 
 package ua.cv.toro;
